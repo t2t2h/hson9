@@ -1,0 +1,9 @@
+Package: com.local.domainsniffer
+Name: DomainSniffer
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Logs domains and IPs contacted by the app, with a floating menu and save feature.
+Maintainer: local
+Author: local
+Section: Tweaks
+Depends: mobilesubstrate
